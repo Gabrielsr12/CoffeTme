@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Minha Extensão de Cronômetro",
+    "version": "1.0",
+    "description": "Uma extensão de cronômetro para o Chrome.",
+    "permissions": [
+      "notifications"
+    ],
+    "icons": {
+      "128": "icons/128.png"
+    }
+  }
